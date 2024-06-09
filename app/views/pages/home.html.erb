@@ -1,0 +1,9 @@
+<%= week_calendar(events: @reservations) do |date, reservations| %>
+  <%= date %>
+
+  <% reservations.each do |reservation| %>
+    <div>
+      <%= reservation.start_time %>
+    </div>
+  <% end %>
+<% end %>

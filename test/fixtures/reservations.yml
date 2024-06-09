@@ -1,0 +1,7 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_time: 2024-06-09 20:14:31
+
+two:
+  start_time: 2024-06-09 20:14:31
